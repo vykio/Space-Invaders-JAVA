@@ -14,6 +14,8 @@
 2. Configurez les librairies pour ajouter JavaFX ```Java JDK > 10```
 3. Lancez
 
+> Si vous faites un build des fichiers sources, l'ajout des librairies javafx sera fera de votre côté.
+
 # Lancer le jeu sur Windows
 
 Utiliser la version déjà build (build avec ```JDK 10```) :
